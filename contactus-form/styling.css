@@ -1,0 +1,12 @@
+html, body {
+    min-height: 100%;
+}
+body {
+    font-family: "Varela Round", sans-serif;
+    background: linear-gradient(#68e8ff, #89eb8e)  no-repeat;
+}
+
+p{
+    font-weight: 500;
+    font-family: 'Courgette', cursive;
+}
